@@ -1,24 +1,24 @@
 [
   { 
     "assetType": "Vehicle",
-    "createDate": "2018-02-13T03:29:36.287Z",
+    "createDate": "2018-12-28T03:29:36.287Z",
     "eldConnectionType": "wifi_direct_pin_mode",
-    "eldDevice": "DigiWVA",
+    "eldDevice": "Digital",
     "eldDeviceName": "Dev01",
-    "eldEsn": 1234567890,
-    "eldMacAddress": "A4:3D:2A:FC:C7:59",
-    "eldPassword": "MAZS92A004",
-    "eldPin": "1234",
-    "eldWifiApSsid": "SSID_1234",
-    "eldWifiApPassword": "1234",
+    "eldEsn": 8928234,
+    "eldMacAddress": "A4:37:2B:FC:C7:59",
+    "eldPassword": "MAZS92A",
+    "eldPin": "6789",
+    "eldWifiApSsid": "SSID_6789",
+    "eldWifiApPassword": "6789",
     "fields":[ 
       { 
         "name":"__eld_pin",
-        "value":"1234"
+        "value":"789"
       },
       { 
         "name":"__eld_password",
-        "value":"MAZS92A004"
+        "value":"MA0983"
       },
       { 
         "name":"__eld_wifi_ap_password",
@@ -30,7 +30,7 @@
       },
       { 
         "name":"__eld_device",
-        "value":"DigiWVA"
+        "value":"Digital"
       },
       { 
         "name":"__eld_mac_address",
@@ -42,7 +42,7 @@
       },
       {
         "name":"__eld_wifi_ap_ssid",
-        "value":"SSID_1234"
+        "value":"SSID_5678"
       }
     ],
     "firmwareVersion": "",
@@ -51,20 +51,20 @@
     ],
     "gpsSource": "EITHER_DEVICE",
     "homeTerminalId": 12708,
-    "licensePlate": "VEH-X01",
+    "licensePlate": "VEH-8962",
     "licensePlateState": "IL",
-    "name": "Truck01",
+    "name": "Truck001",
     "regulationMode": "ELD",
     "odometerOffsetKm": 0.0,
     "useGpsOdometer": false,
     "useManualEngineHours": false,
-    "vin": "-5TDZA22C04S100724",
+    "vin": "-5TDZA22C04S100786",
     "visibilitySetIds": [
       13017
     ],
-    "accountId": 1259472,
-    "id": 1452357,
-    "lastChangedDate": "2018-02-13T03:29:36.287Z"
+    "accountId": 56243,
+    "id": 9987,
+    "lastChangedDate": "2018-11-23T03:29:36.287Z"
   } ,
   
   { 
@@ -76,13 +76,13 @@
     "eldEsn": 1234567891,
     "eldMacAddress": "A4:3D:2A:FC:C7:60",
     "eldPassword": "MAZS92A005",
-    "eldPin": "1235",
-    "eldWifiApSsid": "SSID_1235",
-    "eldWifiApPassword": "1235",
+    "eldPin": "8983",
+    "eldWifiApSsid": "SSID_8983",
+    "eldWifiApPassword": "8983",
     "fields":[ 
       { 
         "name":"__eld_pin",
-        "value":"1235"
+        "value":"8983"
       },
       { 
         "name":"__eld_password",
@@ -98,11 +98,11 @@
       },
       { 
         "name":"__eld_device",
-        "value":"DigiWVA"
+        "value":"Digital"
       },
       { 
         "name":"__eld_mac_address",
-        "value":"98:87:76:65:54:A5"
+        "value":"98:87:66:65:54:A5"
       },
       { 
         "name":"__eld_device_name",
@@ -110,7 +110,7 @@
       },
       {
         "name":"__eld_wifi_ap_ssid",
-        "value":"SSID_1235"
+        "value":"SSID_8893"
       }
     ],
     "firmwareVersion": "",
@@ -119,19 +119,19 @@
     ],
     "gpsSource": "EITHER_DEVICE",
     "homeTerminalId": 12709,
-    "licensePlate": "VEH-X02",
+    "licensePlate": "MEX-6713",
     "licensePlateState": "IL",
-    "name": "Truck02",
+    "name": "Truck03",
     "regulationMode": "ELD",
     "odometerOffsetKm": 0.0,
     "useGpsOdometer": false,
     "useManualEngineHours": false,
-    "vin": "-5TDZA22C04S100725",
+    "vin": "-5TDZA22C04S166324",
     "visibilitySetIds": [
-      13018
+      898262
     ],
-    "accountId": 1259472,
-    "id": 1452358,
+    "accountId": 56243,
+    "id": 9988,
     "lastChangedDate": "2018-10-13T03:29:36.287Z"
   },
     { 
@@ -186,20 +186,20 @@
     ],
     "gpsSource": "EITHER_DEVICE",
     "homeTerminalId": 12709,
-    "licensePlate": "VEH-X02",
+    "licensePlate": "MMy-8712",
     "licensePlateState": "IL",
-    "name": "Truck02",
+    "name": "Truck03",
     "regulationMode": "ELD",
     "odometerOffsetKm": 0.0,
     "useGpsOdometer": false,
     "useManualEngineHours": false,
-    "vin": "-5TDZA22C04S100836",
+    "vin": "-5TDZA22C04S10026411",
     "visibilitySetIds": [
       13018
     ],
-    "accountId": 1259472,
-    "id": 1452359,
-    "lastChangedDate": "2018-10-13T03:29:36.287Z"
+    "accountId": 56243,
+    "id": 9989,
+    "lastChangedDate": "2018-12-26T03:29:36.287Z"
   }
 
   
