@@ -1,41 +1,41 @@
 [
   {
-    "userId": 1268897,
-    "assetId": 1452357,
+    "userId": 44523,
+    "assetId": 772341,
     "position": "POINT (41.891010 -87.623420)",
-    "longitude": 41.891010,
-    "latitude": -87.623420,
-    "eventTime": "2017-09-07T07:40:31.602Z",
-    "totalOdometerKm": 851.53,
+    "longitude": 41.866010,
+    "latitude": -87.523420,
+    "eventTime": "2018-12-27T07:40:31.602Z",
+    "totalOdometerKm": 856.53,
     "totalEngineHours": "PT308606400S", 
     "location": "160 E Illinois St, Chicago, IL 60611, USA",
-    "accountId": 1250232,
-    "id": 1452357
+    "accountId": 56243,
+    "id": 9987
   },
   {
-    "userId": 1268897,
-    "assetId": 1452357,
+    "userId": 44523,
+    "assetId": 772342,
 	"position": "POINT (41.961628 -87.745166)",
-    "longitude": 41.961628,
-    "latitude": -87.745166,
-    "eventTime": "2017-09-07T07:40:31.602Z",
+    "longitude": 41.861628,
+    "latitude": -87.755166,
+    "eventTime": "2018-12-28T07:40:31.602Z",
     "totalOdometerKm": 851.53,
     "totalEngineHours": "PT308606400S", 
     "location": " Montrose Express lane, USA",
-    "accountId": 1250232,
-    "id": 1452358
+    "accountId": 56243,
+    "id": 9988
   },
   {
-    "userId": 1268897,
-    "assetId": 234526,
+    "userId": 44523,
+    "assetId": 772343,
 	"position": "POINT (42.047636 -88.028347)",
-    "longitude": 42.047636,
-    "latitude": -88.028347,
-    "eventTime": "2017-09-07T07:40:31.602Z",
-    "totalOdometerKm": 851.53,
+    "longitude": 42.097636,
+    "latitude": -88.238347,
+    "eventTime": "2018-12-28T07:40:31.602Z",
+    "totalOdometerKm": 751.53,
     "totalEngineHours": "PT308606400S", 
     "location": "160 E Illinois St, Chicago, IL 60611, USA",
-    "accountId": 1250232,
-    "id": 1452359
+    "accountId": 56243,
+    "id": 9989
   }
 ]
