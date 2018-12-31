@@ -1,0 +1,41 @@
+[
+  {
+    "userId": 1268897,
+    "assetId": 1452357,
+    "position": "POINT (41.891010 -87.623420)",
+    "longitude": 41.891010,
+    "latitude": -87.623420,
+    "eventTime": "2017-09-07T07:40:31.602Z",
+    "totalOdometerKm": 851.53,
+    "totalEngineHours": "PT308606400S", 
+    "location": "160 E Illinois St, Chicago, IL 60611, USA",
+    "accountId": 1250232,
+    "id": 1452357
+  },
+  {
+    "userId": 1268897,
+    "assetId": 1452357,
+	"position": "POINT (41.961628 -87.745166)",
+    "longitude": 41.961628,
+    "latitude": -87.745166,
+    "eventTime": "2017-09-07T07:40:31.602Z",
+    "totalOdometerKm": 851.53,
+    "totalEngineHours": "PT308606400S", 
+    "location": " Montrose Express lane, USA",
+    "accountId": 1250232,
+    "id": 1452358
+  },
+  {
+    "userId": 1268897,
+    "assetId": 234526,
+	"position": "POINT (42.047636 -88.028347)",
+    "longitude": 42.047636,
+    "latitude": -88.028347,
+    "eventTime": "2017-09-07T07:40:31.602Z",
+    "totalOdometerKm": 851.53,
+    "totalEngineHours": "PT308606400S", 
+    "location": "160 E Illinois St, Chicago, IL 60611, USA",
+    "accountId": 1250232,
+    "id": 1452359
+  }
+]
